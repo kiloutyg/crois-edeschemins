@@ -4,7 +4,7 @@ public class DirectoryTree {
 
     public static void main(String[] args) {
         // Set the root directory
-        File root = new File("/home");
+        File root = new File("/home/kilo");
 
         // Print the directory tree
         printDirectoryTree(root, 0);

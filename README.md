@@ -7,18 +7,17 @@ Consigne du TP :
 Entrée : Une liste de chemins au format UNIX.
 
 [
-"/home/josh/project/app/src/index.js",
-"/home/peter/.bashrc",
-"/home/josh/project/app/images/logo1.png",
-"/home/josh/project/app/images/logo2.png",
-"/home/peter/.profile",
-"/home/peter/test",
-"/var/log",
-"/usr/lib/node14",
-"/home/josh/project/app/test.jpg",
-"/home/josh/project/app/images/logo3.png",
-"/opt/apache2",
-"etc/hosts"
+    "/home/josh/project/app/src/index.js","/home/peter/.bashrc",
+    "/home/josh/project/app/images/logo1.png",
+    "/home/josh/project/app/images/logo2.png",
+    "/home/peter/.profile",
+    "/home/peter/test",
+    "/var/log",
+    "/usr/lib/node14",
+    "/home/josh/project/app/test.jpg",
+    "/home/josh/project/app/images/logo3.png",
+    "/opt/apache2",
+    "etc/hosts"
 ]
 
 Sortie : un affichage sous forme d’arbre.
@@ -35,7 +34,10 @@ Livrable (exposé sous un depot git public)
 
 1.	Modélisation du probleme sous forme UML(au format image jpg, png, pdf)
 
-2.	Code de la solution
+–	Patron structurel Composite : UML.png 
 
+2.	Code de la solution:
 
-–	Patron structurel Composite : 
+- Code fonctionnel : temp.py 
+- Tree.java, Class1.cs sont deux essaies imparfait. 
+

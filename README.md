@@ -4,14 +4,23 @@ En cooperation avec @Rox74 pour le CESI Dijon Et Hector Lachambre dans la Sessio
 
 Consigne du TP :
 
-Entrée : Une liste de chemins au format UNIX
-Sortie : un affichage sous forme d’arbre
+Entrée : Une liste de chemins au format UNIX.
+
+Sortie : un affichage sous forme d’arbre.
+
 Contraintes :
+
 –	Langage orienté objet
+
 –	Utilisation de patrons de conception
+
 –	Pair programming
+
 Livrable (exposé sous un depot git public)
+
 1.	Modélisation du probleme sous forme UML(au format image jpg, png, pdf)
+
 2.	Code de la solution
+
 
 –	Patron structurel Composite : 

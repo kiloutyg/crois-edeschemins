@@ -42,7 +42,7 @@ private static StringBuilder indent(StringBuilder sb, int level, boolean isLast,
     String indentContent = "\u2502   ";
     for (int i = 0; i < hierarchyTree.size() - 1; ++i) {
         // determines if we need to print | at this level to show the tree structure
-        // i.e. if this folder has a sibling foler that is going to be printed later
+        // i.e. if this folder has a sibling fodler that is going to be printed later
         if (hierarchyTree.get(i)) {
             sb.append(indentContent);
         } else {
